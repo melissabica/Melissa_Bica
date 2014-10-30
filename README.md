@@ -1,7 +1,7 @@
 # Personal Information
 
 ## Name
-[Place your name here]
+Melissa Bica
 
 ## Photo
 [upload a photo and add it here]
