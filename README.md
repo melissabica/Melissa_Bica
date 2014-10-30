@@ -7,7 +7,7 @@ Melissa Bica
 ## Photo
 [upload a photo and add it here]
 [This is the syntax for uploading a photo: ![](images/profile.png)]
-![](images/ProfilePic.JPG)
+![](images/melissa.JPG)
 
 ## Email
 melissa.bica@colorado.edu
